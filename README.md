@@ -7,7 +7,7 @@ Smart Guardian comprehensive solution designed to enhance road safety and driver
 #### Road Condition and Markings Detection
 ##### Zebra Crossings and Diversions: The system can identify road markings such as zebra crossings and diversions, helping drivers navigate complex road situations.
 
-###### Pothole Detection: It also detects potholes on the road, alerting drivers to potential hazards.
+##### Pothole Detection: It also detects potholes on the road, alerting drivers to potential hazards.
 
 #### Lane Detection
 ##### Lane Positioning: The lane detection module uses image processing to assist drivers in maintaining proper lane positioning. It provides visual cues to help drivers stay within their lanes.
